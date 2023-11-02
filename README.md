@@ -1,25 +1,42 @@
 # MicroServices_REST_GRPC
 
+<h4>Création d'un nouveau proujet avec Spring Starter</h4>
 <img width="500" height="200" alt="Capture1" src="https://github.com/hajarmanyani/MicroServices_REST_GRPC/assets/93662714/f579324d-247f-4f46-89b4-199f3731e0c7">
+<h4>Ajout des dépendances</h4>
 <img width="500" height="200" alt="Capture2" src="https://github.com/hajarmanyani/MicroServices_REST_GRPC/assets/93662714/021aa4d3-ee08-406b-be8b-915914572a37">
+<h4>Création de la classe BankAccount</h4>
 <img width="500" height="200" alt="Capture3" src="https://github.com/hajarmanyani/MicroServices_REST_GRPC/assets/93662714/dd997ead-7c65-45b6-b00f-1c651886ce84">
+<h4>Ajouter un ensemble de comptes dans la classe principale</h4>
 <img width="500" height="200" alt="Capture4" src="https://github.com/hajarmanyani/MicroServices_REST_GRPC/assets/93662714/c60cbeb7-dad9-4568-ba43-d20f30d928e3">
+<h4>Tester avec h2 database</h4>
 <img width="500" height="200" alt="Capture5" src="https://github.com/hajarmanyani/MicroServices_REST_GRPC/assets/93662714/16bca8e3-f73d-4c70-87e4-5e224532b2b9">
+<h4>Développer le controlleur REST</h4>
 <img width="500" height="200" alt="Capture6" src="https://github.com/hajarmanyani/MicroServices_REST_GRPC/assets/93662714/d452db36-2deb-412d-936e-5de55f8bb86d">
+<h4>Tester le controlleur sur le navigateur</h4>
 <img width="500" height="200" alt="Capture7" src="https://github.com/hajarmanyani/MicroServices_REST_GRPC/assets/93662714/e793bf1d-a07b-4c6e-913f-2933a4856741">
+<h4>Tester le controlleur sur Postman</h4>
 <img width="500" height="200" alt="Capture8" src="https://github.com/hajarmanyani/MicroServices_REST_GRPC/assets/93662714/003d4a2b-b112-4b93-8079-648577f0abb4">
+<br/>
 <img width="500" height="200" alt="Capture9" src="https://github.com/hajarmanyani/MicroServices_REST_GRPC/assets/93662714/ffe565d3-995a-4ed6-9dae-64671dded793">
+<br/>
 <img width="500" height="200" alt="Capture10" src="https://github.com/hajarmanyani/MicroServices_REST_GRPC/assets/93662714/01021253-ff71-4e0c-80c5-2f560ef40384">
+<h4>Accéder à Swagger</h4>
 <img width="500" height="200" alt="Capture11" src="https://github.com/hajarmanyani/MicroServices_REST_GRPC/assets/93662714/c488aa4e-c72f-4118-b35f-2d4476a17a91">
+<br/>
 <img width="500" height="200" alt="Capture12" src="https://github.com/hajarmanyani/MicroServices_REST_GRPC/assets/93662714/be0bcb1d-c52f-416a-959a-2d77154f5dd2">
+<br/>
 <img width="500" height="200" alt="Capture13" src="https://github.com/hajarmanyani/MicroServices_REST_GRPC/assets/93662714/e120f2c7-bcd5-4b1c-9f46-90837110b3e9">
+<h4>Spring Data Rest</h4>
 <img width="500" height="200" alt="Capture14-Springdatarest" src="https://github.com/hajarmanyani/MicroServices_REST_GRPC/assets/93662714/40aabcb6-0d72-4fa0-9ac5-f19eb0e537ef">
+<h4>Créer une projection pour la classe BankAccount</h4>
 <img width="500" height="200" alt="Capture15-projection" src="https://github.com/hajarmanyani/MicroServices_REST_GRPC/assets/93662714/8377dccd-c57e-4c86-b7e3-1f5c2ce20ed5">
 <img width="500" height="200" alt="Capture16" src="https://github.com/hajarmanyani/MicroServices_REST_GRPC/assets/93662714/017a4ef9-7520-4a13-963d-05286d96c487">
+<h4>Créer les classes BankAccountRequestDTO et BankAccountResponseDTO</h4>
 <img width="500" height="200" alt="Capture17" src="https://github.com/hajarmanyani/MicroServices_REST_GRPC/assets/93662714/45cd2437-438f-4906-9c29-0666886a398f">
 <img width="500" height="200" alt="Capture18" src="https://github.com/hajarmanyani/MicroServices_REST_GRPC/assets/93662714/d44ba165-8b01-4768-9b36-2f3b0cab8cda">
 <img width="500" height="200" alt="Capture19" src="https://github.com/hajarmanyani/MicroServices_REST_GRPC/assets/93662714/34ee8ec1-0be9-4e93-a61c-052289ecbfc6">
 <img width="500" height="200" alt="Capture20" src="https://github.com/hajarmanyani/MicroServices_REST_GRPC/assets/93662714/5ea2e4ea-9fb8-4682-91b8-38012208f859">
+<h4>Création du controlleur GraphQl</h4>
 <img width="500" height="200" alt="Capture21" src="https://github.com/hajarmanyani/MicroServices_REST_GRPC/assets/93662714/5eab03fa-2669-494f-817a-607b384e11ec">
 <img width="500" height="200" alt="Capture21-graphql" src="https://github.com/hajarmanyani/MicroServices_REST_GRPC/assets/93662714/52fd195a-84ed-43b0-805d-8d197b9e0072">
 <img width="500" height="200" alt="Capture22" src="https://github.com/hajarmanyani/MicroServices_REST_GRPC/assets/93662714/5b2213f2-285e-4828-b877-3c6478e1e362">
